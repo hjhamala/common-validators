@@ -1,6 +1,8 @@
+.idea
 pom.xml
 pom.xml.asc
 *.jar
+*.iml
 *.class
 /lib/
 /classes/
